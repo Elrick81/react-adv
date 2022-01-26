@@ -13,6 +13,7 @@ export const ShoppingPage = () => {
     const { shoppingCart, onProductCountChange } = useShoppingCart();
    
 
+    
     return (
         <div>
             <h1>Shopping Store</h1>
